@@ -5,6 +5,7 @@
 # User-specific stuff - Generated files - Sensitive or high-churn files - Gradle
 .idea/
 .idea/compiler.xml
+compiler.xml
 
 # IntelliJ
 out/
